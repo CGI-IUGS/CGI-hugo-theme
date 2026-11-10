@@ -1,3 +1,5 @@
+#ARCHIVED - Development now in https://github.com/CGI-IUGS/cgi-iugs.github.io/ 
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # [Academic](https://sourcethemes.com/academic/): the website builder for [Hugo](https://gohugo.io)
